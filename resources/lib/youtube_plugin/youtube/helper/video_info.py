@@ -776,8 +776,8 @@ class VideoInfo(object):
 
         clients = [
             {
-                'clientName': 'ANDROID',
-                'clientVersion': '18.16.34',
+                'clientName': 'TV_UNPLUGGED_ANDROID',
+                'clientVersion': '1.37',
                 'androidSdkVersion': 31,
                 'osName': 'Android',
                 'osVersion': '12',
